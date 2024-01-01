@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start here.md",
+                "file": "1_Fleeting Notes/Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start here.md",
+                "file": "1_Fleeting Notes/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start here.md",
+                "file": "1_Fleeting Notes/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start here.md"
+                "file": "1_Fleeting Notes/Note.md"
               }
             }
           },
@@ -180,15 +180,32 @@
   },
   "active": "acdc58a6ba5765b3",
   "lastOpenFiles": [
-    "1_Fleeting Notes/Note.md",
+    "vercel.json",
+    "src/site/_includes/layouts/note.njk",
+    "src/site/_includes/layouts/index.njk",
+    "src/site/_includes/components/timestamps.njk",
+    "src/site/_includes/components/sidebar.njk",
+    "src/site/_includes/components/searchScript.njk",
+    "src/site/_includes/components/searchContainer.njk",
+    "src/site/_includes/components/searchButton.njk",
+    "src/site/_includes/components/references.njk",
+    "src/site/_includes/components/pageheader.njk",
+    "src/site/_includes/components/notegrowthhistory.njk",
+    "src/site/img/tree-3.svg",
+    "src/site/img/tree-2.svg",
+    "src/site/img/outgoing.svg",
+    "src/site/img/tree-1.svg",
+    "src/site/img/default-note-icon.svg",
+    "src/site/favicon.svg",
+    "README.md",
     "Start here.md",
+    "1_Fleeting Notes/Note.md",
     "Nov 2022.md",
     "Future Log.md",
     "Bullet Journal.md",
     "Dataview - tasks open.md",
     "Untitled.md",
     "2_Literature Notes/Digital Zettelkasten - Principles and Methods.md",
-    "Assets/My Library.json",
     "1_Fleeting Notes/My first Fleeting Note.md",
     "Canvases/How to Use Links with Templates.canvas",
     "Canvases/Zettelkasten Workflow with Obsidian.canvas"
