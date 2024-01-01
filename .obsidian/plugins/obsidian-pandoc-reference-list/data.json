@@ -1,0 +1,17 @@
+{
+  "pathToPandoc": "C:\\Users\\A00203761\\AppData\\Local\\Pandoc\\pandoc.EXE",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1704073490333
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
+  "pullFromZotero": true,
+  "pathToBibliography": "C:\\Users\\A00203761\\Etc\\temp\\Obsidian-Starter-Kit\\Assets\\My Library.json"
+}
