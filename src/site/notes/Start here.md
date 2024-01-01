@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/start-here/","tags":["type/structure","type/quote","structure/moc","structure/start","gardenEntry"],"created":"2023-12-31T16:10:16.475-08:00","updated":"2023-12-31T17:47:00.846-08:00"}
+{"dg-publish":true,"permalink":"/start-here/","tags":["type/structure","type/quote","structure/moc","structure/start","gardenEntry","gardenEntry"],"created":"2023-12-31T16:10:16.475-08:00","updated":"2023-12-31T17:47:00.846-08:00"}
 ---
 
 # Dashboard
