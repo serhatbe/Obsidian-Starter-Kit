@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start here.md",
+                "file": "1_Fleeting Notes/Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start here.md",
+                "file": "1_Fleeting Notes/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start here.md",
+                "file": "1_Fleeting Notes/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start here.md"
+                "file": "1_Fleeting Notes/Note.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "acdc58a6ba5765b3",
   "lastOpenFiles": [
-    "1_Fleeting Notes/Note.md",
     "Start here.md",
+    "1_Fleeting Notes/Note.md",
     "Nov 2022.md",
     "Future Log.md",
     "Bullet Journal.md",

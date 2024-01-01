@@ -1,11 +1,12 @@
 {
-  "githubRepo": "Obsidian-Zettelkasten",
-  "githubToken": "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",
+  "githubRepo": "Obsidian-Starter-Kit",
+  "githubToken": "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",
   "githubUserName": "serhatbe",
   "gardenBaseUrl": "",
   "prHistory": [
     "https://github.com/serhatbe/Obsidian-Zettelkasten/pull/1",
-    "https://github.com/serhatbe/Obsidian-Zettelkasten/pull/2"
+    "https://github.com/serhatbe/Obsidian-Zettelkasten/pull/2",
+    "https://github.com/serhatbe/Obsidian-Starter-Kit/pull/1"
   ],
   "baseTheme": "dark",
   "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
